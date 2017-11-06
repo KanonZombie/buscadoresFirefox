@@ -1,0 +1,8 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Rock30 Games</os:ShortName>
+<os:Description>Rock30 Games</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHsSURBVDhPY/z//z8DKQCh4d7j910zD339+YeZifHP778QQSBgYWFmYGRg+M/w4+fvaH8DhIYZy05llqxhYGVh+P2HX5SXhZUZIv7u04//f8D6P37fuTGLAagBAq7ffS1i3sGgWNU4ad+b99/effz28u0XICM8bwVQkEW9Ts9nyu8/f5nApoDA7qN33jx6q6kqXpZm++fP33cfv4sJcbOyMF268ZKRhfnPrz/Z0eYszExQDZ++/Jyz6iyQkRphwsHOcufhu4vXXgC5K7Zcvn77JZAhLckf6qUNZEA17Dl699Klp8JSAg4WSn/+/tNVF/e0V3vw9MPUpSeBsv+//EiLMBXk4wSyQZ7+8fOPW/yCw4dusfBxqsoL8/OwAyVYWZmfvvp8/8l7KVGepBCjujwnoHuA4iD8++8/OSl+R2cNF2tlHm62n7/+AtG9x++AqoFBLCXOV5hsDVENBCAbzl9/cfzcw7///rMyMwe6aYmJcAPDffryU1nVG1k5WP//+39gabK1sRxEAwswvlxj5729/wbIEQT5QVFchBvojdXbrjD8+P37x2+gzaZ60hDVQMAIDOwFa88DWf/+/rc2lrU1VQCygRqWb7705OUnDjaWAFdNRRlBsGIQIDktQb1CPGD89u0blEkcINEGBgYAgI/iRgrYVaIAAAAASUVORK5CYII=</os:Image>
+<os:Url type="text/html" method="GET" template="http://www.rock30games.com/ItemSearch--search-{searchTerms}--srcin-1">
+</os:Url>
+</SearchPlugin>

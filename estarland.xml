@@ -1,0 +1,13 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>eStarland.com</os:ShortName>
+<os:Description>eStarland.com | Search and Find New, Used Video Games | Buy and Sell</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAfBJREFUeNrkV8FOwkAQbQkfAJw1KUbvkv6AJHC2HDwTLsgRTvRmj3qSI/gJepAPIJEPkIS7iSHxrO0f4BszTcZNLbu0DQcnedlut8u8eTOzLfZ2u7UOaSXrwHZwAmU5GQwGcnoFjAGX5yvggfFj0+m0MAVmwKNwbvH1jFFoCijyPl/7gM3w+V5frBdCYMzjHcNKmI8LqQFYVcgeAi1lPeTxhJ8N8yYgc367Yy89u8ibgIzI58r/y36tfR2fBbWPtyArgRWTiOVdJEQdp2UhnHsYukCQRxE+iRS4Sn3MEu6TXQIOiJxnVSCW3mW8ikhdoYyv7PF4JBXWWRUgB21x4rUYVSZDa++K/BWFSOaTkEhcAzV22BbXqwT5YzNOg531dQyHoVCAbIJuGOVCAD/uUFQp+ynae+XeBuilOQXBZVoRSouAG+DCQBQi/JKyTuosjVIAJYYJkZoadUcP0a+NP0iwaYKhYdpisi6ApurcuAihRIVTMtTcEnHU81y7gHv/ecdjVIwNOI+K+CbcaKYuKuqjtKvTDTqH0r4EPE1VvNwJcFSOUmgd7pKJqVKljPLTgVKnKqd88xHcYVJaaShlkH8Eh0210Ljl6sBcR4XyHvJH3F7rHdXf4RM0PQ10Duji8+jUASqme9LW7X//7/hbgAEAcV/38cw6BDAAAAAASUVORK5CYII=</os:Image>
+<os:Url type="text/html" method="POST" template="https://www.estarland.com/index.asp">
+    <Param name="search" value="{searchTerms}"/>
+    <Param name="page" value="Search" />
+    <Param name="splatform" value="" />
+    <Param name="Find1.x" value="25" />
+    <Param name="Find1.y" value="9" />
+</os:Url>
+</SearchPlugin>

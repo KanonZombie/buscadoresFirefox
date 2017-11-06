@@ -1,0 +1,8 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>DK Oldies</os:ShortName>
+<os:Description>DK Oldies</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKUSURBVDhPY0ADcgyMZQwcyxk4ljGwlTGwKzAwQiWwgiwGju8M0v9lTf8Xt/wv7/gmZXCbgS+WgRUqjQbyGNj/M8j+F9P5v+/Qn8LKb0WVb5evecIhd4KBN5mBBaoIDrwZmP8DzWZU+K/t9K2568fy1V83bL6ZU3RLy/IcA88WBm4bZLexMzBcZxACGQ/UwKrw2T30XUzG04jkK3ae11lETjHw7WDgns/AwQNVzsDgyMD8jkH0G4PEbQbBXQw86xg5FjKwLmBgWcrIvoiBczUD5yYGrhUMnHYMTCDVggwMBQzsdxiEVjFyJLGxizEwBKnJzAx3nhXpEq+vIgzksrPXM7HMZuBIYWABKmZgY2AIYWBcx8BSradS4mnRF+tZE+S0sSBsY35Yha9dT4xnhY9Vva1BLQNjMAMDB1ADNwdrkKHmHB3xox0Jf66tefT0ce/RC59urv+yd3r56l07D52+PLViaopvODeTj6I0LzsrQ0NG8JeTi7dWBB4o9/v//9riK0/FbTPfPt/7/dIKGfOovGVH/p9YMSnULsVIblN9cpKbOUNVWtD7iyu2F/sf7El7fHnVrbdvjx3c9P/rif9Pdhyb0bHzyPE7K7uXZvpnG8mvLIyMtNFnkBUV7CqO/XJ79cPDczSFePoKw/+/3fv/wfafp5Z8Xt/dGO0uysayuDhmRV5woa+dpCAfKKDYmJmb4nz+XFndmBEMDJbVZfGPF7fenFk7PzcCKOtpoHq8r6jI156DHRyscNCb7PX/9NKpaUFJjsZxdkYJtoaeOsoFnlb72nI60wKgipABCyNjvLvn01VT/59Y9nxlz/66jEPNOVsac1M97VhZcKdZJjbuLEvjTbmJ85MiYkz12FiB8YQEGBgAYI/quQAFn2EAAAAASUVORK5CYII=</os:Image>
+<os:Url type="text/html" method="GET" template="https://www.dkoldies.com/search.php?search_query={searchTerms}">
+</os:Url>
+</SearchPlugin>

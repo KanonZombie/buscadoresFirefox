@@ -1,0 +1,8 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Lukie Games</os:ShortName>
+<os:Description>Lukie Games</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJTSURBVDhPRVJNaxNBGJ7Z2c1mYz5NWptuTFtoGr+oluBBLEEKooh6EaV3D3oUmnoSBE/qD/AneJAieJEeqlSw+IUoaEuNQhNMqbQbm2Y3u0l2d6bv7Cb6HObrfZ53nvedwbrRev5de7Rc+7FjuQz14C+wNyJEMJpIKXfPZa6dSJL8lVvzLzeqje4/MrDPjMWyieDv3Y6vgZBmOiuVphqTyc/c9Uqj6x9jAWGMJIKvHh/IxOQvmzpQ4YTxCZk2LWttLJZeOZQRgV0+Wp8ebe61RceezCWiFDJw8PTLG8bCWoPTMBJhQgyPJqw705vpSGdLD5qmfPJQlPIsOEAw3HA2e+DrH2t9p+0iJPpmwgFXkVyHYtvFTz7W66YByTPRwIOZoVRIDElCRBa4MwyuPQUkg3ugQttFn2rm+0rrQ7X1tmLstSlGGFxxggcBFrOF9IV80uWGIcAkwhCBFQR9DnIpu5hPzhaGgMwteWI/AR4M2/fPVxuW2OoKL1azUKAPuF3gDpAIR08/bw1G3JF4uKAaQJga1sHFrikulVWfDX4W1+vvqgaIvKIx2tbJvcWxbKJDMBtPygcVseugkXgsHgR/DDLzZnrwBACMtJakGQEioJunDl+aiDoUBQiSRd5Wy6Z6h3JbQCRzS/+/kFfP7dOpqbRCKXcCEegFPNyz1d7D4WMPV9a2rR7dA3yNmfEEhF7/+us7AbHflCMDilAqZuBp+K4P22XDMVmNy12XAZ9LPHYyJJaKKm7qxsK3+uM3tbJm9QtDktdpu7+HXS6lzBfVG5OpfcxyBiT06NiWAAAAAElFTkSuQmCC</os:Image>
+<os:Url type="text/html" method="GET" template="https://www.lukiegames.com/search.asp?q={searchTerms}">
+</os:Url>
+</SearchPlugin>
