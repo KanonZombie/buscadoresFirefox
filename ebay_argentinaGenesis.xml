@@ -4,6 +4,6 @@
 <os:InputEncoding>UTF-8</os:InputEncoding>
 <os:Image width="16" height="16"> data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4gwcDwIwV9QAHAAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAANlBMVEUAAAAEBQ4JCRwhIWQlJnErK4ArK4JPT8RUVMZXV8dwcM+Jite3t+e5uefNze7c3PPu7vn////4bMsIAAAAAWJLR0QR4rU9ugAAAD5JREFUGNNjEAABHmZGRmYeMJMBRPAycfLzczLxwgVYOEAkOwtcgJEfRPIxggUIAzYgYAUCbiDgAgI6CZAOAIX2BsVNf7lyAAAAAElFTkSuQmCC
 </os:Image>
-<os:Url type="text/html" method="GET" template="http://www.ebay.com/sch/Video-Games-Consoles/1249/i.html?_nkw={searchTerms}&amp;LH_AvailTo=12&rt=nc &Platform=Sega%2520Genesis">
+<os:Url type="text/html" method="GET" template="http://www.ebay.com/sch/Video-Games-Consoles/1249/i.html?_nkw={searchTerms}&amp;LH_AvailTo=12&amp;rt=nc&amp;Platform=Sega%2520Genesis">
 </os:Url>
 </SearchPlugin>
