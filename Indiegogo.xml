@@ -1,0 +1,9 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Indiegogo</os:ShortName>
+<os:Description>Indiegogo</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16"> data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABvElEQVRYw+2XzysEYRjHJ+THhqStTYlCqT05aQ97EGduDsrBnYuclFqRdZVCoeTkH3DZw/pRDkhuK3cxsoUULdL4Tj1bj7dnZt4Zk3WYw6eteZ/v+35m35n3fcewLMuoJEYkEAkEDRbjM6EQWkdhCrSDeXAAHkAJvIFrsA0GQJVDh71gGRwCEzyCO5AHC6DHS2CSBrM8KIARlqsBK+DLI/cJsqBaEpjSGJizy7I7PrNrqkAn/dW6HVyBGGXTPgcvk+YCiz6CryDJ7n4zoMA6FzgWCt7BLOiiOWsGGTChPDcFIbsBGqm9haZLrbngArdCwZzmq1QUsq1KTUKoMbnAs1DQrSkgPflSnVpT4gJSJ/XUlnSZR8PlupeAxQWkxjpqy/yFwIvQGHd5yPhA92FMgSkU9CkdxBwGygvXE0q2TagpcoEzjbdg0EFgSbi+D/rpFbZ/c0LNORdYdVhwxkET6HCQNGiAIAtRlgukAnZSzp/6zD3RtPzYjPZ+IZCinU4n88F3Ui5gL5lHAQVshun84FZ/A4bczgO1YBpcau6Oar4BjIItuhl7vT+hvWCM+v9nR7KKH0qj74JIoNIC30kXUySZFLDsAAAAAElFTkSuQmCC
+</os:Image>
+<os:Url type="text/html" method="GET" template="https://www.indiegogo.com/explore/all?project_type=campaign&project_timing=all&sort=trending&q={searchTerms}">
+</os:Url>
+</SearchPlugin>
